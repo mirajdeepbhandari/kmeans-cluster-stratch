@@ -4,6 +4,7 @@
 <body>
   <h1>K-Means Clustering From Scratch</h1>
 
+
   <h2>Description</h2>
   <p>This project demonstrates implementation of the KMeans clustering algorithm using Python. KMeans is a popular unsupervised machine learning algorithm used for grouping similar data points into clusters.</p>
 
